@@ -8,7 +8,7 @@ Nome: Yasmin Riana Reis 1 D
 
 Sobre mim
 
-Olá! Meu nome é SEU NOME e sou estudante do curso MTEC em Informática da Escola Técnica Estadual de Taboão da Serra.
+Olá! Meu nome é Yasmin e sou estudante do curso MTEC em Informática da Escola Técnica Estadual de Taboão da Serra.
 
 Sou uma pessoa dedicada, responsável e interessada em aprender coisas novas. Tenho interesse pela área da tecnologia e desejo desenvolver meus conhecimentos em informática, programação e desenvolvimento de sistemas.
 
